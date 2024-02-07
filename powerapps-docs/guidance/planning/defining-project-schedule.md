@@ -15,7 +15,7 @@ ms.reviewer: kathyos
 # Defining the project schedule
 
 You should have at least a rough idea of how much time you'll be spending on
-the project. The phases should be split to:
+the project. The phases should be split into:
 
 - Plan
 
@@ -51,7 +51,7 @@ estimates.
 
 One way to shorten development time while maintaining (and even enhancing)
 quality is to [use an existing app as a template](../../maker/canvas-apps/get-started-test-drive.md). Whether you're using a template
-provide with Power Apps or Power Automate, another app developed in your
+provided with Power Apps or Power Automate, another app developed in your
 organization, or an example you found elsewhere, templates and reference designs
 can help with screen design, interactions, and data architecture.
 
