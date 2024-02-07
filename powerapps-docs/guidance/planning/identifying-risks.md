@@ -21,7 +21,7 @@ have high business impact, or use or create sensitive data.
 
 Here are some of the examples of risks that you might need to consider:
 
-- **Resource risks**: These includes risks such as a lack of people to work on the app, lack of
+- **Resource risks**: These include risks such as a lack of people to work on the app, lack of
     funding to make the apps, and so on.
 
 - **Business risks**: In cases where business frequently changes, it's important to note that
